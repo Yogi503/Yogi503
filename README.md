@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YogiDesilla
-- 👀 I’m interested in java full stack
+- 👀 I’m interested in .Net FullStack full stack
 - 🌱 I’m currently learning webdevelopment and .net
 - 💞️ I’m looking to collaborate on .netfullstack 
 - 📫 How to reach meIG:@yogi_desilla
