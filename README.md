@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yogi503
+- 👋 Hi, I’m @YogiDesilla
 - 👀 I’m interested in java full stack
-- 🌱 I’m currently learning juava full stack and cyber security
-- 💞️ I’m looking to collaborate on fullstack 
-- 📫 How to reach meIG:@son_of_umamurthy
+- 🌱 I’m currently learning webdevelopment and .net
+- 💞️ I’m looking to collaborate on .netfullstack 
+- 📫 How to reach meIG:@yogi_desilla
 
 <!---
 Yogi503/Yogi503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
